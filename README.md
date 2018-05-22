@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Gensis
 
-You can use the [editor on GitHub](https://github.com/gensisapp/gensis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Gensis is the first Ethereum and Erc20 tokens wallets tracker to make its way to the App Store!
+Monitor all your accounts in one place, get live price informations and traverse the entire blockchain to find out all your transactions details. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Key features:
 
-### Markdown
+### Secure and completely anonymous:
+- Don’t need to login, create an account or enter any whatsoever sensible information in the app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Multiple addresses support:
+- Easily add all your Ethereum accounts and check the total worth of your assets in your Fiat currency. Give a name to each one of them to remember which account is which.
 
-```markdown
-Syntax highlighted code block
+### Track your Erc20 tokens:
+- Get a detailed overview of the tokens associated with your address.
 
-# Header 1
-## Header 2
-### Header 3
+### Transactions history:
+- Inspect the blockchain to find any transaction associated with your account.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gensisapp/gensis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### QR scanner:
+- Scan the QR code of your address and have it added to your list. In alternative press the button to quickly paste the address you copied in your clipboard!
