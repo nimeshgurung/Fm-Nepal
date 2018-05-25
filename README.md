@@ -20,4 +20,4 @@ Monitor all your accounts in one place, get live price informations and traverse
 ### QR scanner:
 - Scan the QR code of your address and have it added to your list. In alternative press the button to quickly paste the address you copied in your clipboard!
 
-[PRIVACY POLICY](https://github.com/gensisapp/gensis/wiki/Privacy-policy)
+[PRIVACY POLICY](privacy_policy.md)
