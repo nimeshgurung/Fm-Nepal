@@ -4,12 +4,12 @@ FM Nepal provides easy and intuitive excess to hundreds of nepalese radio statio
 
 ## Key features:
 
-### Favourite your favourite station
+1. Favourite your favourite station
 
-### Easily search your favourite station
+2. Easily search your favourite station
 
-### No annoying ads and is always going to be ad free
+3. No annoying ads and is always going to be ad free
 
-### Nice and intuitive to use
+4. Nice and intuitive to use
 
 [PRIVACY POLICY](https://www.freeprivacypolicy.com/privacy/view/217fe79abc6c225488240820e17dccda)
