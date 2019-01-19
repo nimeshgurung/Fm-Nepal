@@ -1,25 +1,15 @@
-## Welcome to Gensis
+## Fm Nepal
 
-[View on App Store](https://itunes.apple.com/us/app/gensis-ethereum-blockchain/id1369622151)
-
-Gensis is the first Ethereum and Erc20 tokens wallets tracker to make its way to the App Store!
-Monitor all your accounts in one place, get live price informations and traverse the entire blockchain to find out all your transactions details. 
+FM Nepal provides easy and intuitive excess to hundreds of nepalese radio stations via your phone. You can search and save your favourite radio stations from Nepal for easy access with the app's intuitive design. The app is designed to be simple and intuitive to use, without any annoying ads.
 
 ## Key features:
 
-### Secure and completely anonymous:
-- Don’t need to login, create an account or enter any whatsoever sensible information in the app.
+### Favourite your favourite station
 
-### Multiple addresses support:
-- Easily add all your Ethereum accounts and check the total worth of your assets in your Fiat currency. Give a name to each one of them to remember which account is which.
+### Easily search your favourite station
 
-### Track your Erc20 tokens:
-- Get a detailed overview of the tokens associated with your address.
+### No annoying ads and is always going to be ad free
 
-### Transactions history:
-- Inspect the blockchain to find any transaction associated with your account.
+### Nice and intuitive to use
 
-### QR scanner:
-- Scan the QR code of your address and have it added to your list. In alternative press the button to quickly paste the address you copied in your clipboard!
-
-[PRIVACY POLICY](privacy_policy.md)
+[PRIVACY POLICY](https://www.freeprivacypolicy.com/privacy/view/217fe79abc6c225488240820e17dccda)
